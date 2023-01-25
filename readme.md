@@ -1,13 +1,18 @@
-# common-dts <img src="dts.svg" alt="DTS Logo" width="35"/>
-
 <p align="center">
   <img src="screenshot.png"/>
 </p>
+<h3 align="center">No More Type Extension Error</h3>
+
+&nbsp;
+
 <p align="center">
-  <b>No More Type Extension Error</b>
+  <img alt="npm" src="https://img.shields.io/npm/v/common-dts?color=%23e74c3c&style=flat-square">
+  <img alt="GitHub" src="https://img.shields.io/github/license/lamualfa/common-dts?color=%239b59b6&style=flat-square">
 </p>
 
 &nbsp;
+
+# common-dts <img src="dts.svg" alt="DTS Logo" width="30"/>
 
 Collection of reusable `.d.ts` files commonly used on your projects. So you don't need to Google it again.
 
