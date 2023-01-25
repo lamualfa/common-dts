@@ -1,0 +1,23 @@
+{
+  "name": "common-dts",
+  "version": "0.0.1",
+  "description": "Collection of common d.ts files.",
+  "keywords": [
+    "typescript",
+    "type",
+    "definition",
+    "declaration",
+    "import"
+  ],
+  "license": "WTFPL",
+  "author": {
+    "name": "Laode Muhammad Al Fatih",
+    "email": "lamualfa@gmail.com",
+    "url": "https://github.com/lamualfa"
+  },
+  "homepage": "https://github.com/lamualfa/common-dts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lamualfa/common-dts.git"
+  }
+}
