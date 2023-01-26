@@ -19,5 +19,12 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/lamualfa/common-dts.git"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.27",
+    "solid-js": "^1.6.9",
+    "svelte": "^3.55.1",
+    "vue": "^3.2.45",
+    "vue2": "npm:vue@2"
   }
 }
