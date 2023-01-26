@@ -6,8 +6,8 @@
 &nbsp;
 
 <p align="center">
-  <img alt="npm" src="https://img.shields.io/npm/v/common-dts?color=%23e74c3c&style=flat-square">
-  <img alt="GitHub" src="https://img.shields.io/github/license/lamualfa/common-dts?color=%239b59b6&style=flat-square">
+  <img alt="npm version" src="https://img.shields.io/npm/v/common-dts?color=%23e74c3c&style=flat-square">
+  <img alt="license" src="https://img.shields.io/github/license/lamualfa/common-dts?color=%239b59b6&style=flat-square">
 </p>
 
 &nbsp;
