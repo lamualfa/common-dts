@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="screenshot.png"/>
+  <img src="docs/screenshot.png"/>
 </p>
 <h3 align="center">No More Type Extension Error</h3>
 
@@ -12,7 +12,7 @@
 
 &nbsp;
 
-# common-dts <img src="dts.svg" alt="DTS Logo" width="30"/>
+# common-dts <img src="docs/dts.svg" alt="DTS Logo" width="30"/>
 
 Collection of reusable `.d.ts` files commonly used on your projects. So you don't need to Google it again.
 
