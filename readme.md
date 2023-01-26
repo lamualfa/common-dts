@@ -32,7 +32,7 @@ npm i -D common-dts
 pnpm add -D common-dts
 ```
 
-###### PNPM
+###### Yarn
 
 ```bash
 yarn add -D common-dts
